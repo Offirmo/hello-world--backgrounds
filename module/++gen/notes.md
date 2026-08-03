@@ -20,7 +20,7 @@ The trees are palms, mangroves and some houses are on pilotis, seaside tropical 
 The trees are magnificent white birch trees.
 
 2. This is now a beautiful wood elf village in bright daylight, serene atmosphere.
-The trees are magnificent fir and spruce trees hinting at a mountainous biome.
+The trees are magnificent fir and spruce trees with clean white bark hinting at a mountainous biome.
 
 2. This is now a beautiful wood elf village in bright daylight, serene atmosphere.
    The trees are magnificent purple trees with clean white bark, exotic yet classical.
