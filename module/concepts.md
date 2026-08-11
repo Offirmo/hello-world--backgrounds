@@ -1,8 +1,15 @@
+# concepts
+
+
+## Characters
+
+https://en.wikipedia.org/wiki/Human_hair_color
+
+Earth scale: Blond -> Dark blond -> Medium brown -> Dark brown -> Black ; Auburn, Red, Gray, White
 
 
 
-## concepts
-
+## wilderness
 
 A clear progression could be:
 
@@ -11,7 +18,16 @@ Hearth → Bounds → Borderlands → Deepwild → Untamed
 1. **Hearth** = inside the village; protected, inhabited, familiar
    - “hearthland” suggests the safe, familiar territory around one’s home or village.
 2. **Bounds** = fields, roads, and woods within the village’s safe reach
+   - **Bounds** are still clearly within the village’s sphere of control.
+     They include nearby fields, roads, pastures, managed woods, watch posts, and places people use regularly.
+     Danger may exist, but the community can usually respond to it.
+   - **Bounds** = still inside the safe perimeter
 3. **Borderlands** = beyond regular protection, but still travelled or patrolled
+   - **Borderlands** are the transition zone where that control starts to weaken.
+     They may still be mapped, patrolled, or travelled, but not reliably.
+     Threats from the wild are more common, and people who go there are expected to be more self-sufficient.
+   - **Borderlands** = at the edge where safety becomes uncertain
+   - the shift from Bounds to Borderlands is essentially the moment when “the village protects you” becomes “you are mostly responsible for yourself.”
 4. **Deepwild** = remote wilderness where human influence fades
    - **Deepwild** is wilderness that is far from settlement and difficult to reach, but still somewhat known.
      Hunters, rangers, traders, or explorers may occasionally pass through it.

@@ -1,3 +1,15 @@
+Project instructions:
+
+You're a talented concept artist, creative, original.
+
+Context = high-fantasy universe (video game / light novel)
+
+Art style:
+- MANGA/ANIME style, role playing game
+- bright colors, broad warm palette, high contrast
+- visible crisp anime linework, both silhouettes and structural lineworks are sharp and delineated
+- good mood, epic, energetic and adventurous
+- NOT dull
 
 
 
@@ -17,10 +29,10 @@ video game / light novel set in a high-fantasy universe.
 - visible crisp anime linework, both silhouettes and structural lineworks are sharp and defined
 - good mood, epic, energetic and adventurous
 - NOT dull
-- NEVER draw any writings, or only illegible one. Reason: It's a different world and they don't use our alphabets.
+- NEVER draw any earthen writings. Reason: It's a different world and they don't use our alphabets.
 
 
-## language
+## lore
 
 Elves are a major race in this universe:
 - They're civilized, refined.
@@ -31,7 +43,7 @@ Elves are a major race in this universe:
 - They have long lifespan and even elders are still looking good
 - apparel: refined clothes, well cut, fit, silk-like
 - accessories: golden varied finely crafted accessories
-- animal companions: elves don't like domesticated animals, but they occasionally cohabit with some wild animals they befriended (ONLY animals matching the current biome)
+- animal companions: elves don't like domesticated animals, but they occasionally cohabit with some wild animals they befriended (ONLY animals matching the current biome, NO collars)
 
 
 ## current biome
@@ -84,18 +96,21 @@ Adaptations:
 
 
 
-*temperate/hot eucalypt forest biome*
+*tropical hot eucalypt forest biome*
 
-FOREST of trees that are magnificent trees reminding of eucalyptus, banksia etc. with clean bark but NON-STRAIGHT bendy shapes (gum tree)
+dense FOREST of trees that are magnificent eucalyptus with clean light-brown bark but NON-STRAIGHT bendy shapes (gum tree)
 
 NO kangaroos, we want to stay generic.
 
 Adaptations:
-- clothes: very short light clothes
-- people: Olive, moderate brown skin and foliage-inspired hair colors
+- clothes: short light clothes(some lace for females)
+- people: very tan skin and dark-brown-to-dark hair colors
 - materials: natural, matching the environment
 - architecture: matching the environment
 
+REMINDERS:
+- REFINED houses and clothes
+- bright colors, broad warm palette, high contrast
 
 
 
@@ -152,7 +167,7 @@ FOREST of trees that are palms trees providing shade, figs, crops. careful irrig
 ## task
 
 Remix this silhouette picture into a polished illustration:
-1. This is now a beautiful elf village in bright daylight, joyful atmosphere.
+1. This is now a beautiful wood elf village in bright daylight, joyful atmosphere.
 2. Remove or re-arrange the biggest branch in the middle (too big)
 3. Add plenty of happy elves of various ages in daily lives situations; slightly more females than males + also a few wild animal companions
 4. Don't add too much details, keep the overall picture clean.
@@ -165,55 +180,85 @@ REMINDERS:
 - NOT dull, good contrast.
 - ANIME style.
 
----
 
+-----------------------------------------
 now draw the marketplace for this village, full of goods and bartering elves + a few wild animal companions + a few humans (humans are less refined)
-REMINDER this is a village, NOT too many people nor houses + they're small. We can see the biome around the buildings
+REMINDERS:
+- this is a village, NOT too many people nor houses + they're small. We can see the biome around the buildings
 
 
 
+-----------------------------------------
 now draw the town hall of this village, as seen from inside. Very refined.
-a great hall where high-ranking elves and elders are roamin.
+a great hall where high-ranking elves and elders are roaming.
 In the half right side, in the background, we see a beautiful mayor presiding the council.
 
-REMINDERS
+REMINDERS:
 - ANIME style
 - visible crisp anime linework, both silhouettes and structural lineworks are sharp and delineated
 - broad warm palette, contrast
 
 
-now draw the forge of this village, as seen from inside. Very refined, an artisan paradise.
-Featuring a friendly DILF blacksmith at work.
+-----------------------------------------
+now draw the forge of this village, as seen from inside. Very refined magic crafting space, an artisan paradise.
+
+
+The furnace is highly hot, magically enhanced.
+
+
+Featuring a friendly DILF blacksmith at work. Brightly lit from big windows.
+
+
 He has a beautiful daughter helping around (in the background)
 
-REMINDERS
+
+NOT only weapons, elves are peaceful: feature some cool elven weapons of course, but also plenty of metal-based tools, arcane devices or fashion accessories.
+
+
+Panoramic view.
+
+
+REMINDERS:
 - ANIME style
-- visible crisp anime linework, both silhouettes and structural lineworks are sharp and delineated
-- broad warm palette, contrast
+- broad warm palette
+- REFINED houses and clothes
+- NO earth writings
 
 
-
+-----------------------------------------
 now draw the dispensary/help post of this village, as seen from inside. Very refined and safe.
-Double down as a pharmacy.
-Featuring a welcoming cute nerdy doctor.
-also cute nurse/assistant helping around (in the background)
 
-REMINDERS
+Double down as a pharmacy. Brightly lit from big windows but private areas have fewer windows of course.
+
+Featuring a welcoming cute nerdy MILF doctor, with simpler clothes (for hygiene/medical reasons).
+
+Also featuring cute female nurse/assistant helping around (in the background) dressed cute elven nurse style.
+
+
+Panoramic view.
+
+
+REMINDERS:
 - ANIME style
 - visible crisp anime linework, both silhouettes and structural lineworks are sharp and delineated
-- broad warm palette, contrast
+- broad warm palette
+- REFINED houses and clothes
 
 
 
+-----------------------------------------
 now draw the library of this village, as seen from inside. Very refined, very clean (no vegetation inside). Magic devices.
-This is only a village so they aren't many tomes, but we can clearly see different sections. A glimpse of a forbidden/high-security section in the background, where highly precious tomes are stored. We can't enter.
+This is only a village so they aren't many tomes, but we can clearly see different sections. A glimpse of a forbidden/high-security section in the background, where a few highly precious tomes are stored. We can't enter.
 
+REMINDERS:
 - ANIME style
 - visible crisp anime linework, both silhouettes and structural lineworks are sharp and delineated
-- NO writings
+- broad warm palette
+- NO earth writings
 
 
 
+-----------------------------------------
 now draw the school of this village, as seen from inside.
 This is only a village so not too many children + they have a range of ages. Smaller kids are downstairs, older ones upstairs. lots of wooden classic toys, books, papers, furniture, craft activities. Cute teachers, one teaching, one helping kids.
 In the corner, a cute male chef is about to serve food and snacks.
@@ -225,29 +270,38 @@ We can see a glimpse of a fantasy playground outside. Pets are NOT allowed insid
 
 
 
-now draw the entrance for this village, with a few male guards, as seen from the inside
-REMINDER this is a village, NOT too many people nor houses (which are small) and we can see the natural surroundings
+-----------------------------------------
+now draw the entrance for this village, with a few male guards, as seen from the inside.
+
+REMINDERS:
+- this is a village, NOT too many people nor houses (which are small) and we can see the natural surroundings.
+- we're in a dense forest, that's what's mostly behind the gates
 
 
+-----------------------------------------
 now do a variation: We're leaving the village (it doesn't appear anymore, nor any characters or buildings) and are heading into the wilderness. a trail is leading us into the beautiful biome features, lush, teaming with life and hinting at imminent adventures.
 
+
+-----------------------------------------
 now do a variation: We're leaving the village and are heading to new adventures.
 follow the attached composition with random travelers
 
 
+-----------------------------------------
 now do a variation: We're leaving the village (it doesn't appear anymore, nor any characters or buildings) and are heading into the wilderness.
 a medium-sized cascade temporary turn the river into in a BIG bassin DEEP enough to bathe and fish before running again. behind the cascade is the hidden entrance of a cave (NOT visible but the cascade is large enough to cover it).
 It's also a clearing with luscious grass. Very inviting and relaxing.
 
-bigger and deeper, we need to be able to bath and fish. bigger river flow
+bigger and deeper, we need to be able to bathe and fish. bigger river flow
 
 
----
-
+-----------------------------------------
 We're now farther in the wilderness. The trail is barely visible (if any),
 Be creative with the composition and feature a nice thing (EITHER waterfall, big tree, rock, cave, creek...) and compose around it
 
-We're now much farther in the wilderness. No more trail, the vegetation is becoming thicker, less light (but NOT too dark!) and wildlife is more wild. There is now a hint of danger as we're far from civilization and in range of magic beasts (only hinted for now).
+
+-----------------------------------------
+We're now much farther in the wilderness. No more trail, the vegetation is becoming thicker, the terrain is difficult, less light (but NOT too dark!) and wildlife is more wild. There is now a hint of danger as we're far from civilization and in range of magic beasts (only hinted for now).
 Be creative with the composition and feature a nice thing (EITHER waterfall, big tree, rock, cave, creek...) and compose around it
 NOT too dark
 
