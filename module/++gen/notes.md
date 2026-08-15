@@ -48,6 +48,7 @@ Elves are a major race in this universe:
 
 ## current biome
 
+
 *seaside tropical biome*
 
 palms, mangroves and other tropical trees. beautiful cliffs and white sand.
@@ -65,21 +66,23 @@ Adaptations:
 - architecture: matching the environment
 
 
+
 * temperate seaside biome*
 
-FOREST of trees that are maritime pines, holm oaks, etc.
+dense FOREST of trees that are maritime pines, holm oaks, etc.
 
-beautiful dunes and golden sand.
-
-lots of coastal boats.
-
-The sea is clearly visible and part of the setting.
+While the village is surrounded with forest, it's coastal. We can see a pier, boats + beautiful dunes and golden sand, which we can see far away. (flat terrain)
 
 Adaptations:
 - clothes: swim-ready short clothes
-- people: normal skin and sea-inspired hair colors
-- materials: natural, matching the environment
+- people: fair skin, shades-of-deep-blue/cyan/navy light-to-medium hair colors
+- materials: natural, matching the environment, also stone (clean granite)
 - architecture: matching the environment
+
+Notes:
+- blue and white-gold palette
+task
+Draw a beautiful coastal elf village surrounded by forest (flat terrain) elf village in bright daylight, joyful atmosphere.
 
 
 
@@ -183,9 +186,13 @@ REMINDERS:
 
 -----------------------------------------
 now draw the marketplace for this village, full of goods and bartering elves + a few wild animal companions + a few humans (humans are less refined)
+
+panoramic view, 1st person.
+
+blue and white-gold palette
+
 REMINDERS:
 - this is a village, NOT too many people nor houses + they're small. We can see the biome around the buildings
-
 
 
 -----------------------------------------
@@ -197,21 +204,14 @@ REMINDERS:
 - ANIME style
 - visible crisp anime linework, both silhouettes and structural lineworks are sharp and delineated
 - broad warm palette, contrast
+- blue and white-gold palette
 
 
 -----------------------------------------
 now draw the forge of this village, as seen from inside. Very refined magic crafting space, an artisan paradise.
-
-
 The furnace is highly hot, magically enhanced.
-
-
 Featuring a friendly DILF blacksmith at work. Brightly lit from big windows.
-
-
 He has a beautiful daughter helping around (in the background)
-
-
 NOT only weapons, elves are peaceful: feature some cool elven weapons of course, but also plenty of metal-based tools, arcane devices or fashion accessories.
 
 
@@ -279,13 +279,22 @@ REMINDERS:
 
 
 -----------------------------------------
-now do a variation: We're leaving the village (it doesn't appear anymore, nor any characters or buildings) and are heading into the wilderness. a trail is leading us into the beautiful biome features, lush, teaming with life and hinting at imminent adventures.
+now draw a mighty treant/ent of this biome (same local tree species), patrolling in the forest. landscape panoramic view.
+
+treants are not as intelligent as elves, so they have simpler features (simpler ent-like face) and NO crafted accessories.
+
+They are powerful but gentle creatures. a few children and a few critters may follow or even ride.
 
 
 -----------------------------------------
-now do a variation: We're leaving the village and are heading to new adventures.
-follow the attached composition with random travelers
+now do a variation: We're leaving the village (it doesn't appear anymore, nor any characters or buildings) and are heading into the wilderness.
+A trail is leading us into the beautiful biome features, teaming with life and hinting at imminent adventures.
 
+
+-----------------------------------------
+now do a variation: We left village (it doesn't appear anymore, nor any characters or buildings) and entered the forest, left the path (it doesn't appear anymore) in order to forage mushrooms and herbs. We're seeing some!
+
+panoramic view. nature only.
 
 -----------------------------------------
 now do a variation: We're leaving the village (it doesn't appear anymore, nor any characters or buildings) and are heading into the wilderness.
